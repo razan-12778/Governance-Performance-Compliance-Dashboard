@@ -62,3 +62,10 @@ This dashboard helps organizations:
 - Enhance reporting accuracy
 - Increase readiness before official review
 - Ensure structured and transparent governance evaluation
+
+- <img width="710" height="385" alt="Screenshot 1447-09-06 at 7 15 22 PM" src="https://github.com/user-attachments/assets/14c5bb49-5aea-4957-8853-b5d76348eb8e" />
+<img width="1101" height="385" alt="Screenshot 1447-09-06 at 7 15 10 PM" src="https://github.com/user-attachments/assets/3b561356-61aa-4522-9e74-090e3f665c27" />
+<img width="1119" height="385" alt="Screenshot 1447-09-06 at 7 14 40 PM" src="https://github.com/user-attachments/assets/67a5df1b-0f3d-4120-8a62-f08128cb1538" />
+<img width="489" height="565" alt="Screenshot 1447-09-06 at 7 14 21 PM" src="https://github.com/user-attachments/assets/084827da-2872-4241-9f5c-d3265b8ca0ac" />
+<img width="929" height="565" alt="Screenshot 1447-09-06 at 7 14 04 PM" src="https://github.com/user-attachments/assets/dde5aa91-4cdf-484a-ad93-0e6acc5279e6" />
+
