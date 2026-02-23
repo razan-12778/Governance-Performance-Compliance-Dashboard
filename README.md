@@ -63,6 +63,17 @@ This dashboard helps organizations:
 - Increase readiness before official review
 - Ensure structured and transparent governance evaluation
 
+- ###  Data Privacy & Compliance Disclaimer
+
+> [!IMPORTANT]
+> **This repository is for portfolio and demonstration purposes only.** > To ensure full compliance with **NDMO** (National Data Management Office) regulations and  privacy standards:
+>
+> * **Anonymization:** All sensitive identifiers ( Names, IDs, Contact Info) have been strictly masked or replaced with synthetic data.
+> * **Aggregated Views:** The visual samples provided display aggregated operational metrics rather than individual record-level data.
+> * **Confidentiality:** No proprietary or internal strategic documents  are shared in this public repository.
+
+---
+
 - <img width="710" height="385" alt="Screenshot 1447-09-06 at 7 15 22 PM" src="https://github.com/user-attachments/assets/14c5bb49-5aea-4957-8853-b5d76348eb8e" />
 <img width="1101" height="385" alt="Screenshot 1447-09-06 at 7 15 10 PM" src="https://github.com/user-attachments/assets/3b561356-61aa-4522-9e74-090e3f665c27" />
 <img width="1119" height="385" alt="Screenshot 1447-09-06 at 7 14 40 PM" src="https://github.com/user-attachments/assets/67a5df1b-0f3d-4120-8a62-f08128cb1538" />
